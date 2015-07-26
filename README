@@ -1,0 +1,8 @@
+
+
+
+* 오류 시 
+1. java.lang.UnsatisfiedLinkError: no jaybird21 in java.library.path
+  -> MANIFEST.MF 파일 수정: Bundle-NativeCode: ./fbclient.dll; lib/jaybird21.dll; ./icudt30.dll; ./icuuc30.dll 추가
+2. export 후 login 창(splashHandlers) 뜨지 않을 경우
+  -> plugin.xml > build > splash.bmp 선택 추가

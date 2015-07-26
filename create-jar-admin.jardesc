@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="MS949" standalone="no"?>
+<jardesc>
+    <jar path="com.casmall.dts.manage/lib/casmall-dts-admin.1.0.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/com.casmall.dts.manage/create-jar-admin.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.ui.dialog"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.biz.domain"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.ui.view"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.figure"/>
+        <file path="/com.casmall.dts.admin/src/sql-map-auth.xml"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.rulers.commands"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.edit"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.editor"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.model"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.edit.tree"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.rulers"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.splashHandlers"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.common"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.edit.policies"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.commands"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.biz.dao"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.model.properties"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.biz.mgr"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.export"/>
+        <folder path="/com.casmall.dts.admin/icons"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.actions"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.ui.action"/>
+        <javaElement handleIdentifier="=com.casmall.dts.admin/src&lt;com.casmall.dts.admin.print.model.annotations"/>
+    </selectedElements>
+</jardesc>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="MS949" standalone="no"?>
+<jardesc>
+    <jar path="com.casmall.dts.manage/lib/casmall-dts-1.0.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/com.casmall.dts.manage/create-jar-dts.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui.common"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui.weigh.compsite"/>
+        <file path="/com.casmall.dts/src/sql-map-weigh.xml"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.biz.dao"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;org.eclipse.nebula.widgets.tablecombo"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui.action"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.biz.mgr"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.common"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui.preferences"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui.weigh.dialog"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;org.eclipse.ui.internal.presentations.util"/>
+        <file path="/com.casmall.dts/src/sql-map-mst.xml"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.biz.domain"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui.home"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui.master"/>
+        <file path="/com.casmall.dts/src/sql-map-prt.xml"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.splashHandlers"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;org.eclipse.ui.presentations"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.weigh"/>
+        <folder path="/com.casmall.dts/icons"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui.usr"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.novocode.naf.swt.custom"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui.view"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.ui.weigh"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.casmall.dts.print"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;com.swtdesigner"/>
+        <javaElement handleIdentifier="=com.casmall.dts/src&lt;org.eclipse.nebula.jface.tablecomboviewer"/>
+    </selectedElements>
+</jardesc>
